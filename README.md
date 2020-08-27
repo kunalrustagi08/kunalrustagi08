@@ -3,13 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalrustagi08" alt="kunalrustagi08" /> </p>
 
+- 🔭 I’m currently working on **image processing and tabular data**
+
 - 🌱 I’m currently learning **OpenCV**
+
+- 🤝 I’m looking for help with **cloud :/**
 
 - 👨‍💻 All of my projects are available at [kunalrustagi08.github.io](kunalrustagi08.github.io)
 
 - 📝 I regulary write articles on [https://kunalrustagi08.github.io/year-archive/](https://kunalrustagi08.github.io/year-archive/)
 
 - 💬 Ask me about **python, Brawl Stars and Cricket :)**
+
+- 📫 How to reach me **rustagi.kunal@outlook.com**
 
 - ⚡ Fun fact **Wet the toothbrush before applying toothpaste**
 
@@ -19,4 +25,6 @@
 
 <p align="center">
 <a href="https://twitter.com/kunalr01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kunalr01" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kunal-rustagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunal-rustagi" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13597577" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13597577" height="30" width="30" /></a>
 </p>
