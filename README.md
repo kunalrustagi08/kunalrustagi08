@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **cloud :/**
 
-- 👨‍💻 All of my projects are available at [kunalrustagi08.github.io](kunalrustagi08.github.io)
+<!-- - 👨‍💻 All of my projects are available at [kunalrustagi08.github.io](kunalrustagi08.github.io) -->
 
 - 📝 I regulary write articles on [https://kunalrustagi08.github.io/year-archive/](https://kunalrustagi08.github.io/year-archive/)
 
