@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OpenCV**
 
-- 🤝 I’m looking for help with **cloud :/**
+- 🤝 I’m looking for help with **AWS, Data Structures and Algorithms**
 
 <!-- - 👨‍💻 All of my projects are available at [kunalrustagi08.github.io](kunalrustagi08.github.io) -->
 
