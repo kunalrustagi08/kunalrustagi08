@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [https://kunalrustagi08.github.io/year-archive/](https://kunalrustagi08.github.io/year-archive/)
 
-- 💬 Ask me about **python, Brawl Stars and Cricket :)**
+- 💬 Ask me about **Python, SQL, Brawl Stars and Cricket :)**
 
 - 📫 How to reach me **rustagi.kunal@outlook.com**
 
