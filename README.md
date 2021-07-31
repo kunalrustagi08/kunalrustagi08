@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalrustagi08" alt="kunalrustagi08" /> </p>
 
-- 🔭 I’m currently working on **image processing and tabular data**
+- 🔭 I’m currently working on **tabular data**
 
 - 🌱 I’m currently learning **OpenCV**
 
-- 🤝 I’m looking for help with **AWS, Data Structures and Algorithms**
+- 🤝 I’m looking to learn more about **AWS, DevOps and Data Structures**
 
 <!-- - 👨‍💻 All of my projects are available at [kunalrustagi08.github.io](kunalrustagi08.github.io) -->
 
