@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kunal Rustagi</h1>
-<h3 align="center">Excited to work on images</h3>
+<h3 align="center">Excited to work with technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalrustagi08" alt="kunalrustagi08" /> </p>
 
 - 🔭 I’m currently working on **tabular data**
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **Docker**
 
 - 🤝 I’m looking to learn more about **AWS, DevOps and Data Structures**
 
