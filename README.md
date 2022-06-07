@@ -13,11 +13,11 @@
 
 - 📝 I regulary write articles on [https://kunalrustagi08.github.io/year-archive/](https://kunalrustagi08.github.io/year-archive/)
 
-- 💬 Ask me about **Python, SQL, Brawl Stars and Cricket :)**
+- 💬 Ask me about **Python, SQL, Chess and Cricket :)**
 
 - 📫 How to reach me **rustagi.kunal@outlook.com**
 
-- ⚡ Fun fact **Wet the toothbrush before applying toothpaste**
+- ⚡ Wisdom **A single choice is a galaxy of hope**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalrustagi08&layout=compact&hide=html" alt="kunalrustagi08" /></p>
 
