@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **tabular data**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently practicing **LeetCode, Linear Algebra**
 
 - 🤝 I’m looking to learn more about **AWS, DevOps and Data Structures**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rustagi.kunal@outlook.com**
 
-- ⚡ Wisdom **A single choice is a galaxy of hope**
+- ⚡ Wisdom **Take the leap of faith**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalrustagi08&layout=compact&hide=html" alt="kunalrustagi08" /></p>
 
