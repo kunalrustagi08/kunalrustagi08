@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalrustagi08" alt="kunalrustagi08" /> </p>
 
-- 🔭 I’m currently working on **tabular data**
+- 🔭 I’m currently studying Masters in ECE at **UC San Diego** and looking to work in the field of **data science, analytics, development and data engineering**
 
-- 🌱 I’m currently practicing **LeetCode, Linear Algebra**
+- 🌱 I’m currently practicing **LeetCode, SQL, Python**
 
 - 🤝 I’m looking to learn more about **AWS, DevOps and Data Structures**
 
